@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '6116'
     url: http://www.gutenberg.org/2009/agents/6116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15547#The-Life-of-Robert-Louis-Stevenson-for-Boys-and-Girls
 gutenberg_issued: '2005-04-04'
 gutenberg_type: Text
 identifiers:
